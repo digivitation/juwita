@@ -1879,7 +1879,7 @@ body {
 
 .scroll-down {
   position: absolute;
-  bottom: -200px;
+  bottom: -150px;
   left: 50%;
   max-width: 100px !important;
   transform: translateX(-50%);
