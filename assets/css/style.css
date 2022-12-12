@@ -154,8 +154,14 @@ aAdd audio
 # Disable aos animation delay on mobile devices
 --------------------------------------------------------------*/
 @media screen and (max-width: 768px) {
+  
   [data-aos-delay] {
     transition-delay: 0 !important;
+  }
+
+  .modal-background {
+    text-align: center;
+    background-image: url('../img/DCIM/bg-modal-depan-mobile.png');
   }
 
   .kasih-spasi {
@@ -197,12 +203,12 @@ aAdd audio
   }
 
   .skills {
-    background-image: url('../img/DCIM/bg-acara-pernikahan.webp');
+    background-image: url('../img/DCIM/bg-acara-pernikahan-mobile.png');
     background-size: cover;
   }
 
   .facts {
-    background-image: linear-gradient(180deg,rgba(142, 142, 142, 0.25) 0%,rgba(142, 142, 142, 0.25) 100%), url('../img/DCIM/bg-hari-bahagia.png');
+    background-image: linear-gradient(180deg,rgba(142, 142, 142, 0.25) 0%,rgba(142, 142, 142, 0.25) 100%), url('../img/DCIM/bg-hari-bahagia-mobile.png');
     background-size: cover;
   }
 
@@ -688,12 +694,12 @@ section {
   }
 
   .skills {
-    background-image: url('../img/DCIM/bg-acara-pernikahan.webp');
+    background-image: url('../img/DCIM/bg-acara-pernikahan-mobile.png');
     background-size: cover;
   }
 
   .facts {
-    background-image: linear-gradient(180deg,rgba(142, 142, 142, 0.25) 0%,rgba(142, 142, 142, 0.25) 100%), url('../img/DCIM/bg-hari-bahagia.png');
+    background-image: linear-gradient(180deg,rgba(142, 142, 142, 0.25) 0%,rgba(142, 142, 142, 0.25) 100%), url('../img/DCIM/bg-hari-bahagia-mobile.png');
     background-size: cover;
   }
 }
@@ -1268,11 +1274,11 @@ section {
     width: 80%;
   }
   .skills {
-    background-image: url('../img/DCIM/bg-acara-pernikahan.webp');
+    background-image: url('../img/DCIM/bg-acara-pernikahan-mobile.png');
     background-size: cover;
   }
   .facts {
-    background-image: linear-gradient(180deg,rgba(142, 142, 142, 0.25) 0%,rgba(142, 142, 142, 0.25) 100%), url('../img/DCIM/bg-hari-bahagia.png');
+    background-image: linear-gradient(180deg,rgba(142, 142, 142, 0.25) 0%,rgba(142, 142, 142, 0.25) 100%), url('../img/DCIM/bg-hari-bahagia-mobile.png');
     background-size: cover;
   }
 }
@@ -1488,7 +1494,7 @@ section {
 @media (max-width: 992px) {
   .modal-background {
     text-align: center;
-    background-image: url('../img/DCIM/bd-modal-depan.webp');
+    background-image: url('../img/DCIM/bg-modal-depan-mobile.png');
   }
   .modal-background h1 {
     font-size: 40px;
@@ -1514,7 +1520,7 @@ section {
   }
 
   .skills {
-    background-image: url('../img/DCIM/bg-acara-pernikahan.webp');
+    background-image: url('../img/DCIM/bg-acara-pernikahan-mobile.png');
     background-size: cover;
   }
 
@@ -1539,7 +1545,7 @@ section {
   }
 
   .facts {
-    background-image: linear-gradient(180deg,rgba(142, 142, 142, 0.25) 0%,rgba(142, 142, 142, 0.25) 100%), url('../img/DCIM/bg-hari-bahagia.png');
+    background-image: linear-gradient(180deg,rgba(142, 142, 142, 0.25) 0%,rgba(142, 142, 142, 0.25) 100%), url('../img/DCIM/bg-hari-bahagia-mobile.png');
     background-size: cover;
   }
 
@@ -1557,6 +1563,10 @@ section {
 }
 
 @media screen and (max-width: 480px) {
+  .modal-background {
+    text-align: center;
+    background-image: url('../img/DCIM/bg-modal-depan-mobile.png');
+  }
   .icon-cover-image {
     max-width: 150px;
     border-bottom-left-radius: 40px;
@@ -1590,7 +1600,7 @@ section {
   }
 
   .skills {
-    background-image: url('../img/DCIM/bg-acara-pernikahan.webp');
+    background-image: url('../img/DCIM/bg-acara-pernikahan-mobile.png');
     background-size: cover;
   }
 
@@ -1615,7 +1625,7 @@ section {
   }
 
   .facts {
-    background-image: linear-gradient(180deg,rgba(142, 142, 142, 0.25) 0%,rgba(142, 142, 142, 0.25) 100%), url('../img/DCIM/bg-hari-bahagia.png');
+    background-image: linear-gradient(180deg,rgba(142, 142, 142, 0.25) 0%,rgba(142, 142, 142, 0.25) 100%), url('../img/DCIM/bg-hari-bahagia-mobile.png');
     background-size: cover;
   }
 
