@@ -1876,3 +1876,11 @@ body {
 .bi-heart-fill {
   color: #ec3434 !important;
 }
+
+.scroll-down {
+  position: absolute;
+  bottom: -200px;
+  left: 50%;
+  max-width: 100px;
+  transform: translateX(-50%);
+}
