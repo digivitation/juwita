@@ -352,7 +352,7 @@ aAdd audio
 } */
 #hero h1 {
   margin: 0;
-  font-size: 64px;
+  font-size: 60px;
   font-weight: 700;
   line-height: 56px;
   color: #ffffff !important;
@@ -363,12 +363,12 @@ aAdd audio
   color: #ffffff;
   margin: 15px 0 0 0;
   font-size: 26px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Zilla Slab", sans-serif;
 }
 
 #hero .desc {
-  font-size: 25px;
-  font-family: 'Pompiere', cursive;
+  font-size: 20px;
+  font-family: 'Zilla Slab', serif;
   line-height: normal;
   letter-spacing: 2.5px;
 }
@@ -397,13 +397,13 @@ aAdd audio
     text-align: center;
   }
   #hero h1 {
-    font-size: 32px;
+    font-size: 25px;
     line-height: 36px;
   }
   #hero p {
     margin-top: 10px;
     font-size: 20px;
-    line-height: 24px;
+    line-height: 45px;
   }
   #hero .desc {
     font-size: 18px;
@@ -436,7 +436,7 @@ section {
 }
 .section-title h2 {
   font-size: 50px;
-  font-family: 'Pompiere', cursive !important;
+  font-family: 'Zilla Slab', serif !important;
   font-weight: bold;
   text-transform: uppercase;
   margin-bottom: 20px;
@@ -466,7 +466,7 @@ section {
 }
 .section-title p {
   margin-bottom: 0;
-  font-family: "Itim", cursive;
+  font-family: "Cormorant", serif;
   font-size: 20px;
 }
 
@@ -519,7 +519,7 @@ section {
   font-weight: 700;
   font-size: 26px;
   color: #728394;
-  font-family: "Itim", cursive;
+  font-family: "Cormorant", serif;
 }
 .about .content ul {
   list-style: none;
@@ -544,13 +544,13 @@ section {
 }
 
 .about h3 {
-  font-family: "Itim", cursive;
+  font-family: "Cormorant", serif;
   font-weight: 700;
   font-size: 26px;
 }
 
 .about span {
-  font-family: "Itim", cursive;
+  font-family: "Cormorant", serif;
   font-size: 20px;
 }
 
@@ -599,7 +599,7 @@ section {
 .facts .count-box p {
   padding: 0;
   margin: 0;
-  font-family: "Itim", cursive;
+  font-family: "Cormorant", serif;
   font-size: 20px;
 }
 
@@ -611,7 +611,7 @@ section {
 }
 
 .facts h5 {
-  font-family: "Itim", cursive;
+  font-family: "Cormorant", serif;
   font-size: 20px;
 }
 
@@ -684,7 +684,7 @@ section {
   .facts .count-box h5 {
     margin: 0;
     font-size: 18px;
-    font-family: "Itim", cursive;
+    font-family: "Cormorant", serif;
   }
 
   .skills {
@@ -723,7 +723,7 @@ section {
   text-transform: uppercase;
   display: block;
   font-weight: 600;
-  font-family: "Poppins", sans-serif;
+  font-family: "Zilla Slab", sans-serif;
   color: #45505b;
 }
 .skills .progress .skill .val {
@@ -770,7 +770,7 @@ section {
 }
 
 .skills .count-box p {
-  font-family: "Itim", cursive;
+  font-family: "Cormorant", serif;
   color: #000 !important;
   font-size: 20px;
 }
@@ -858,7 +858,7 @@ section {
   font-size: 18px;
   font-weight: 600;
   text-transform: uppercase;
-  font-family: "Poppins", sans-serif;
+  font-family: "Zilla Slab", sans-serif;
   color: #0563bb;
   margin-bottom: 10px;
 }
@@ -1405,7 +1405,7 @@ section {
   font-size: 36px;
   font-weight: 700;
   position: relative;
-  font-family: "Poppins", sans-serif;
+  font-family: "Zilla Slab", sans-serif;
   padding: 0;
   margin: 0 0 15px 0;
 }
@@ -1474,14 +1474,14 @@ section {
 
 .modal-background p {
   font-size: 35px;
-  font-family: 'Pompiere', cursive;
+  font-family: 'Zilla Slab', serif;
   line-height: 55px;
   color: #ffffff !important;
 }
 
 .modal-background strong {
   font-size: 35px;
-  font-family: 'Square Peg', cursive;
+  font-family: 'Square Peg', serif;
   color: #ffffff !important;
 }
 
@@ -1501,7 +1501,7 @@ section {
   }
 
   .modal-background strong {
-    font-size: 27px;
+    font-size: 22px;
     color: #ffffff !important;
   }
 
@@ -1796,14 +1796,14 @@ section {
   max-height: 600px;
   overflow-y: auto;
   overflow-x: hidden;
-  font-family: "Itim", cursive;
+  font-family: "Cormorant", serif;
   -ms-overflow-style: none;  /* IE and Edge */
   scrollbar-width: 10px;  /* Firefox */
 }
 
 .list-pesan p {
   font-size: 21px;
-  font-family: 'Pompiere', cursive !important;
+  font-family: 'Zilla Slab', serif !important;
 }
 
 .list-pesan strong {
@@ -1845,17 +1845,17 @@ body {
 
 .protokol-kesehatan p {
   font-size: 15px;
-  font-family: "Itim", cursive;
+  font-family: "Cormorant", serif;
 }
 
 .tulisan-pernikahan {
   margin-bottom: 45px !important;
-  font-family: 'Pompiere', cursive !important;
+  font-family: 'Zilla Slab', serif !important;
   font-size: 50px !important;
 }
 
 .giftHadiahText {
-  font-family: "Itim", cursive;
+  font-family: "Cormorant", serif;
   font-size: 20px;
 }
 
