@@ -80,7 +80,7 @@ aAdd audio
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #596C65;
+  background: #A34425;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -92,7 +92,7 @@ aAdd audio
   line-height: 0;
 }
 .btn-audio:hover {
-  background: #b1b89c;
+  background: #c45e3d;
   color: #fff;
 }
 .btn-audio.active {
@@ -123,7 +123,7 @@ aAdd audio
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #9AA086;
+  border: 6px solid #A34425;
   border-top-color: #fff;
   border-bottom-color: #fff;
   border-radius: 50%;
@@ -197,12 +197,12 @@ aAdd audio
   }
 
   .skills {
-    background-image: url('../img/DCIM/STRQ0607-media.jpg');
+    background-image: url('../img/DCIM/bg-acara-pernikahan.webp');
     background-size: cover;
   }
 
   .facts {
-    background-image: linear-gradient(180deg,rgba(142, 142, 142, 0.25) 0%,rgba(142, 142, 142, 0.25) 100%), url('../img/DCIM/STRQ0633-media.jpg');
+    background-image: linear-gradient(180deg,rgba(142, 142, 142, 0.25) 0%,rgba(142, 142, 142, 0.25) 100%), url('../img/DCIM/bg-hari-bahagia.png');
     background-size: cover;
   }
 
@@ -460,7 +460,7 @@ section {
   display: block;
   width: 40px;
   height: 3px;
-  background: #9AA086;
+  background: #A34425;
   bottom: 0;
   left: calc(50% - 20px);
 }
@@ -558,7 +558,7 @@ section {
 # Facts
 --------------------------------------------------------------*/
 .facts {
-  background-image: linear-gradient(180deg,rgba(142, 142, 142, 0.25) 0%,rgba(142, 142, 142, 0.25) 100%), url('../img/DCIM/STRQ0633.jpg');
+  background-image: linear-gradient(180deg,rgba(142, 142, 142, 0.25) 0%,rgba(142, 142, 142, 0.25) 100%), url('../img/DCIM/bg-hari-bahagia.png');
   background-size: cover;
 }
 .facts .count-box {
@@ -688,12 +688,12 @@ section {
   }
 
   .skills {
-    background-image: url('../img/DCIM/STRQ0607-media.jpg');
+    background-image: url('../img/DCIM/bg-acara-pernikahan.webp');
     background-size: cover;
   }
 
   .facts {
-    background-image: linear-gradient(180deg,rgba(142, 142, 142, 0.25) 0%,rgba(142, 142, 142, 0.25) 100%), url('../img/DCIM/STRQ0633-media.jpg');
+    background-image: linear-gradient(180deg,rgba(142, 142, 142, 0.25) 0%,rgba(142, 142, 142, 0.25) 100%), url('../img/DCIM/bg-hari-bahagia.png');
     background-size: cover;
   }
 }
@@ -702,7 +702,7 @@ section {
 # Skills
 --------------------------------------------------------------*/
 .skills {
-  background-image: url('../img/DCIM/STRQ0607.jpg');
+  background-image: url('../img/DCIM/bg-acara-pernikahan.webp');
   background-size: cover;
   border-top-style: double;
   border-top-width: 15px;
@@ -751,13 +751,13 @@ section {
 }
 
 .skills .akad {
-  background-image: linear-gradient(180deg,rgba(255,255,255,0.75) 0%,rgba(255,255,255,0.75) 100%), url('../img/DCIM/STRQ0862.jpg');
+  background-image: linear-gradient(180deg,rgba(255,255,255,0.75) 0%,rgba(255,255,255,0.75) 100%);
   background-position: top center;
   background-size: cover;
 }
 
 .skills .resepsi {
-  background-image: linear-gradient(180deg,rgba(255,255,255,0.75) 0%,rgba(255,255,255,0.75) 100%), url('../img/DCIM/STRQ0752.jpg');
+  background-image: linear-gradient(180deg,rgba(255,255,255,0.75) 0%,rgba(255,255,255,0.75) 100%);
   background-position: top center;
   background-size: cover;
 }
@@ -766,7 +766,7 @@ section {
   margin: 0;
   font-size: 45px;
   font-family: "monoline signature", sans-serif;
-  color: #7b8752 !important;
+  color: #A34425 !important;
 }
 
 .skills .count-box p {
@@ -791,7 +791,7 @@ section {
 # Amplop
 --------------------------------------------------------------*/
 .amplop {
-  background: #9AA086;
+  background: #A34425;
   color: #fff;
 }
 
@@ -818,12 +818,13 @@ section {
 }
 
 .btn-confirm {
-  background-color: #596C65 !important;
+  color: rgb(27, 36, 36) !important;
+  background-color: white !important;
   border-radius: 7.5px;
 }
 
 .btn-success {
-  border-color: #596C65 !important;
+  border-color: white !important;
   border-radius: 50px;
 }
 
@@ -1267,11 +1268,11 @@ section {
     width: 80%;
   }
   .skills {
-    background-image: url('../img/DCIM/STRQ0607.jpg');
+    background-image: url('../img/DCIM/bg-acara-pernikahan.webp');
     background-size: cover;
   }
   .facts {
-    background-image: linear-gradient(180deg,rgba(142, 142, 142, 0.25) 0%,rgba(142, 142, 142, 0.25) 100%), url('../img/DCIM/STRQ0633.jpg');
+    background-image: linear-gradient(180deg,rgba(142, 142, 142, 0.25) 0%,rgba(142, 142, 142, 0.25) 100%), url('../img/DCIM/bg-hari-bahagia.png');
     background-size: cover;
   }
 }
@@ -1283,6 +1284,7 @@ section {
   background-image: linear-gradient(rgba(255,255,255,.65), rgba(255,255,255,.65)), url('../img/bg.png');
   background-size: 600px;
   background-repeat: repeat;
+  color: white !important;
 }
 .contact .info {
   width: 100%;
@@ -1392,7 +1394,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background-image: linear-gradient(180deg,rgba(0, 0, 0, 0.25) 0%,rgba(0, 0, 0, 0.25) 100%), url('../img/DCIM/STRQ0715.jpg');
+  background-image: linear-gradient(180deg,rgba(0, 0, 0, 0.25) 0%,rgba(0, 0, 0, 0.25) 100%), url('../img/DCIM/bg-footer.png');
   background-size: cover;
   color: #fff;
   font-size: 14px;
@@ -1443,7 +1445,7 @@ section {
 }
 
 .modal-background {
-  background-image: url('../img/DCIM/STRQ0103.jpg');
+  background-image: url('../img/DCIM/bg-modal-depan.webp');
   background-repeat: no-repeat;
   width: 100%;
   height: 100vh;
@@ -1486,7 +1488,7 @@ section {
 @media (max-width: 992px) {
   .modal-background {
     text-align: center;
-    background-image: url('../img/DCIM/STRQ0103-mobile.jpg');
+    background-image: url('../img/DCIM/bd-modal-depan.webp');
   }
   .modal-background h1 {
     font-size: 40px;
@@ -1512,7 +1514,7 @@ section {
   }
 
   .skills {
-    background-image: url('../img/DCIM/STRQ0607-media.jpg');
+    background-image: url('../img/DCIM/bg-acara-pernikahan.webp');
     background-size: cover;
   }
 
@@ -1537,7 +1539,7 @@ section {
   }
 
   .facts {
-    background-image: linear-gradient(180deg,rgba(142, 142, 142, 0.25) 0%,rgba(142, 142, 142, 0.25) 100%), url('../img/DCIM/STRQ0633-media.jpg');
+    background-image: linear-gradient(180deg,rgba(142, 142, 142, 0.25) 0%,rgba(142, 142, 142, 0.25) 100%), url('../img/DCIM/bg-hari-bahagia.png');
     background-size: cover;
   }
 
@@ -1588,7 +1590,7 @@ section {
   }
 
   .skills {
-    background-image: url('../img/DCIM/STRQ0607-media.jpg');
+    background-image: url('../img/DCIM/bg-acara-pernikahan.webp');
     background-size: cover;
   }
 
@@ -1613,7 +1615,7 @@ section {
   }
 
   .facts {
-    background-image: linear-gradient(180deg,rgba(142, 142, 142, 0.25) 0%,rgba(142, 142, 142, 0.25) 100%), url('../img/DCIM/STRQ0633-media.jpg');
+    background-image: linear-gradient(180deg,rgba(142, 142, 142, 0.25) 0%,rgba(142, 142, 142, 0.25) 100%), url('../img/DCIM/bg-hari-bahagia.png');
     background-size: cover;
   }
 
@@ -1640,7 +1642,7 @@ section {
 }
 
 .pulse {
-  background-color: #9AA086!important;
+  background-color: #A34425!important;
   color: #ffffff;
   border: none;
   border-radius: 20px;
@@ -1715,7 +1717,7 @@ section {
   border-bottom-right-radius: 200px;
   border-top-left-radius: 500px;
   border-top-right-radius: 500px;
-  border: #9AA086;
+  border: #A34425;
   border-width: 10px 10px 15px 10px;
   border-style: solid;
   box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);
@@ -1735,7 +1737,7 @@ section {
 }
 
 .btn-instagram {
-  background-color: #9AA086;
+  background-color: #A34425;
 }
 
 .btn-circle {
@@ -1780,12 +1782,12 @@ section {
 }
 
 .btn-info {
-  background-color: #9AA086 !important;
-  border-color: #9AA086 !important;
+  background-color: #A34425 !important;
+  border-color: #A34425 !important;
 }
 
 .form-guest-book {
-  background-color: #9AA086;
+  background-color: #A34425;
   padding: 15px;
   border-radius: 10px;
 }
