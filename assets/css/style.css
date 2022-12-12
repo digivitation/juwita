@@ -1881,6 +1881,6 @@ body {
   position: absolute;
   bottom: -200px;
   left: 50%;
-  max-width: 100px;
+  max-width: 100px !important;
   transform: translateX(-50%);
 }
