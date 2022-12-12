@@ -1821,7 +1821,7 @@ section {
 
 .waktu-acara {
   margin-top: 10px;
-  font-size: larger;
+  font-size: 30px !important;
   font-weight: bold;
 }
 
