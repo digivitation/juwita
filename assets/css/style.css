@@ -180,6 +180,14 @@ aAdd audio
     font-size: 16px !important;
   }
 
+  .scroll-down {
+    position: absolute;
+    bottom: -150px;
+    left: 50%;
+    max-width: 100px !important;
+    transform: translateX(-50%);
+  }
+
 }
 /*--------------------------------------------------------------
 # Header
@@ -200,6 +208,14 @@ aAdd audio
     background: #fff;
     border-right: 1px solid #e6e9ec;
     left: -300px;
+  }
+
+  .scroll-down {
+    position: absolute;
+    bottom: -150px;
+    left: 50%;
+    max-width: 100px !important;
+    transform: translateX(-50%);
   }
 
   .skills {
@@ -425,6 +441,14 @@ aAdd audio
 
   .giftHadiahText {
     font-size: 16px !important;
+  }
+
+  .scroll-down {
+    position: absolute;
+    bottom: -150px;
+    left: 50%;
+    max-width: 100px !important;
+    transform: translateX(-50%);
   }
 }
 
@@ -701,6 +725,14 @@ section {
   .facts {
     background-image: linear-gradient(180deg,rgba(142, 142, 142, 0.25) 0%,rgba(142, 142, 142, 0.25) 100%), url('../img/DCIM/bg-hari-bahagia-mobile.png');
     background-size: cover;
+  }
+
+  .scroll-down {
+    position: absolute;
+    bottom: -150px;
+    left: 50%;
+    max-width: 100px !important;
+    transform: translateX(-50%);
   }
 }
 
@@ -1552,6 +1584,14 @@ section {
   .services {
     background-repeat: repeat;
   }
+
+  .scroll-down {
+    position: absolute;
+    bottom: -150px;
+    left: 50%;
+    max-width: 100px !important;
+    transform: translateX(-50%);
+  }
 }
 
 .icon-cover-image {
@@ -1647,6 +1687,14 @@ section {
   .facts .count-box p {
     margin: 0;
     font-size: 15px;
+  }
+
+  .scroll-down {
+    position: absolute;
+    bottom: -150px;
+    left: 50%;
+    max-width: 100px !important;
+    transform: translateX(-50%);
   }
   
 }
@@ -1879,7 +1927,7 @@ body {
 
 .scroll-down {
   position: absolute;
-  bottom: -150px;
+  bottom: -200px;
   left: 50%;
   max-width: 100px !important;
   transform: translateX(-50%);
